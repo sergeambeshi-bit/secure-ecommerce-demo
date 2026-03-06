@@ -1,8 +1,6 @@
 
 ---
 
-### **3. secure-ecommerce-demo/README.md**
-
 ```markdown
 # Secure E-Commerce Demo
 
