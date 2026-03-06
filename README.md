@@ -1,5 +1,12 @@
+
+---
+
+### **3. secure-ecommerce-demo/README.md**
+
+```markdown
 # Secure E-Commerce Demo
-Demo e-commerce website with security best practices and SEO optimisation.
+
+Responsive e-commerce demo website demonstrating secure login, cart functionality, simulated payment, and SEO optimisation. Highlights secure web development best practices.
 
 ## Features
 - Secure login and cart
@@ -11,3 +18,10 @@ Demo e-commerce website with security best practices and SEO optimisation.
 - HTML, CSS, JavaScript
 - Node.js / Express
 - MongoDB
+
+## Usage
+```bash
+git clone https://github.com/sergeambeshi-bit/secure-ecommerce-demo.git
+cd secure-ecommerce-demo
+npm install
+npm start
